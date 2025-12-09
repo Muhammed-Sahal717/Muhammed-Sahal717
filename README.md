@@ -1,55 +1,121 @@
-# 🔥 Initializing: Muhammed-Sahal717 System Protocol
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="auto" />
+</div>
 
-> Status: **ONLINE**
-> Role: Full Stack Engineer + UI/UX Architect
-> Objective: Building **Digital Worlds** with speed and style.
+<div align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="120" />
+<br>
+<a href="https://github.com/Muhammed-Sahal717">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=32&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Hi,+I'm+Muhammed+Sahal!;Building+Websites.;Mastering+DSA+and+System+Design." alt="Typing SVG" />
+</a>
+<p width="60%">
+<samp>
+i am really passionate in coding and designing.<br>
+Specializing in <b>Full Stack Development</b> and  <b>UI/UX Design</b>.<br><br>
+I enjoy building clean, user-friendly interfaces and turning ideas into scalable, real-world products.<br>
+Currently focused on improving problem-solving skills, design systems, and modern web technologies.
+</samp>
 
----
+</p>
+</div>
 
-## 💻 Code Canvas (Skills & Tools)
+<br>
 
-I utilize a versatile stack for both **Logic Loops** (backend) and **Pixel Perfect** (frontend) designs.
+<div align="center">
+<a href="https://github.com/Muhammed-Sahal717">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://instagram.com/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</div>
 
-### Core Languages
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+<br>
 
-### Frameworks & Libraries
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
-[![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react-native&logoColor=black)](https://reactnative.dev/)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
-[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+<div align="center">
+<h3 style="font-family: 'Courier New', monospace;">🚀 THE ARSENAL</h3>
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+</div>
 
-### Data & Tools
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+<br>
 
----
+<div align="center">
+<h3 style="font-family: 'Courier New', monospace;">💎 FEATURED GEMS</h3>
 
-## ⚡ Power Level (Performance Metrics)
+<table border="0" width="90%" cellpadding="10">
+<tr>
+<td width="100%" align="center">
+<b>🤖 NextPortfolio</b> <br>
+<samp>AI-powered personal portfolio integrated with Gemini AI Chatbot.</samp>
+<br><br>
+<div align="center">
+<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</div>
+</td>
+</tr>
+</table>
 
-These dynamic cards display my consistency and coding focus.
+<br>
 
-| Consistency 📅 | Top Skills 🌟 | Overall Loadout 🎯 |
-| :---: | :---: | :---: |
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Muhammed-Sahal717&theme=radical&hide_border=true)](https://git.io/streak-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammed-Sahal717&layout=compact&theme=radical&hide=css,html&hide_border=true)](https://github.com/Muhammed-Sahal717) | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhammed-Sahal717&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/Muhammed-Sahal717)
+<table border="0" width="90%" cellpadding="10">
+<tr>
+<td width="100%" align="center">
+<b>🚗 AutoLink</b> <br>
+<samp>Anonymous vehicle obstruction notification system via QR Codes.</samp>
+<br><br>
+<div align="center">
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</div>
+</td>
+</tr>
+</table>
+</div>
 
----
+<br>
 
-## 🌍 Offline Mode (Escape Velocity)
-When the development servers shut down, I switch to **Game Time**:
-* **Video Game** quests 🎮
-* Cheering the **Football King** ⚽
+<div align="center">
+<table border="0" width="90%" cellpadding="10">
+<tr>
+<td align="center" width="50%" valign="top">
+<h4 style="font-family: monospace;">⚡ CURRENTLY COOKING</h4>
+<img src="https://img.shields.io/badge/Data%20Structures-3C3C3C?style=for-the-badge&logo=thealgorithms&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/Algorithms-3C3C3C?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+</td>
+<td align="center" width="50%" valign="top">
+<h4 style="font-family: monospace;">🎮 LIFE MODE</h4>
+<img src="https://img.shields.io/badge/Gamer-000000?style=for-the-badge&logo=steam&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/Football-15803d?style=for-the-badge&logo=premierleague&logoColor=white" />
+</td>
+</tr>
+</table>
+</div>
 
----
+<br><br>
 
-### 🔗 Handshake Protocol
-* [**LinkedIn** Link]
-* [**Portfolio/Website** Link]
-* [**Email** Address]
-
-> **End of Transmission** - Ready for Next Command
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,7c3aed,0d1117&height=120&section=footer" width="100%" />
+</div>
