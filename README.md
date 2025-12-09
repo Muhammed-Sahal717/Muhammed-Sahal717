@@ -1,34 +1,34 @@
-# 👨‍💻 Muhammed-Sahal717: The Digital Bridge
+# 🔥 Initializing: Muhammed-Sahal717
 
-### 🚀 Role Call
-**Full Stack Developer** & **UI/UX Designer**. I build **Pixel Perfect** experiences powered by rock-solid backend **Logic Loops**.
+> Status: ONLINE
+> Role: Full Stack Developer + UI/UX Designer
+> Objective: Building **Digital Worlds**
 
 ---
 
-### ⚙️ The Blueprint (Skills)
+## 🛠️ Boot Sequence (Skills)
 
-| Frontend 🖼️ | Backend 🧠 | Data / Tools 🗃️ |
+| Core Module | Frameworks 🏗️ | Data Vault 💾 |
 | :--- | :--- | :--- |
-| **JS** / **React** / **Next.js** | **Node.js** / **Express.js** | **MongoDB** / **PostgreSQL** |
-| **React Native** | **Python** | **Git** |
-| HTML / CSS | | |
+| **JavaScript** / **Python** | **React** / **Next.js** / Node.js | MongoDB / PostgreSQL |
+| UI/UX Design | React Native / Express.js | Git |
 
 ---
 
-### 📈 Global Impact (GitHub Stats)
+## ⚡ Power Level (Performance Metrics)
 
-[![Muhammed-Sahal717's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhammed-Sahal717&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/Muhammed-Sahal717)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammed-Sahal717&layout=compact&theme=radical&hide=css)](https://github.com/Muhammed-Sahal717)
-
----
-
-### ⚽ Game Time (Passions)
-When the servers are silent:
-* **Video Gaming**
-* **Football Fanatic**
+| Consistency 📅 | Top Skills 🌟 | Overall Loadout 🎯 |
+| :--- | :--- | :--- |
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Muhammed-Sahal717&theme=radical)](https://git.io/streak-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammed-Sahal717&layout=compact&theme=radical&hide=css)](https://github.com/Muhammed-Sahal717) | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhammed-Sahal717&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/Muhammed-Sahal717)
 
 ---
 
-### 📧 Next Level
-[LinkedIn Link] | [Portfolio Link]
+## 🌍 Offline Mode (Escape Velocity)
+**Video Game** quests and cheering the **Football King**.
+
+---
+
+### 🔗 Handshake Protocol
+[Contact Links Here]
+
+> **End of Transmission**
