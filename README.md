@@ -39,7 +39,7 @@ Currently focused on improving problem-solving skills, design systems, and moder
 <br>
 
 <div align="center">
-<h3 style="font-family: 'Courier New', monospace;">🚀 THE ARSENAL</h3>
+<h3 style="font-family: 'Courier New', monospace;">TECH STACK</h3>
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
@@ -56,12 +56,12 @@ Currently focused on improving problem-solving skills, design systems, and moder
 <br>
 
 <div align="center">
-<h3 style="font-family: 'Courier New', monospace;">💎 FEATURED GEMS</h3>
+<h3 style="font-family: 'Courier New', monospace;">FEATURED GEMS</h3>
 
 <table border="0" width="90%" cellpadding="10">
 <tr>
 <td width="100%" align="center">
-<b>🤖 NextPortfolio</b> <br>
+<b>NextPortfolio</b> <br>
 <samp>AI-powered personal portfolio integrated with Gemini AI Chatbot.</samp>
 <br><br>
 <div align="center">
@@ -79,7 +79,7 @@ Currently focused on improving problem-solving skills, design systems, and moder
 <table border="0" width="90%" cellpadding="10">
 <tr>
 <td width="100%" align="center">
-<b>🚗 AutoLink</b> <br>
+<b>AutoLink</b> <br>
 <samp>Anonymous vehicle obstruction notification system via QR Codes.</samp>
 <br><br>
 <div align="center">
