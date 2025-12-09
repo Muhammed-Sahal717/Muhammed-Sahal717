@@ -1,38 +1,34 @@
-# 👋 Hello World! I'm [Your Name]
+# 👨‍💻 Muhammed-Sahal717: The Digital Bridge
 
-### 🚀 The Digital Architect
-I am a dedicated **Full Stack Developer** and **UI/UX Designer** focused on building beautiful, scalable, and user-centric applications. I bridge the gap between aesthetics and function, ensuring a great experience on every platform.
-
----
-
-## 🛠️ My Toolbox: The Tech Stack
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Frontend Mastery** | **JavaScript**, **React**, **React Native**, **Next.js**, HTML, CSS |
-| **Backend Engines** | **Node.js**, **Express.js**, **Python** |
-| **Data & Storage** | MongoDB, PostgreSQL |
-| **Version Control** | Git |
+### 🚀 Role Call
+**Full Stack Developer** & **UI/UX Designer**. I build **Pixel Perfect** experiences powered by rock-solid backend **Logic Loops**.
 
 ---
 
-## 📊 Developer Metrics
+### ⚙️ The Blueprint (Skills)
 
-*Get your GitHub stats cards here. Replace the links below with your actual username.*
-
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhammed-Sahal717&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/Muhammed-Sahal717)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammed-Sahal717&layout=compact&theme=dark&hide=css)](https://github.com/Muhammed-Sahal717)
-
----
-
-## 🎮 Beyond the Code
-
-When I step away from the keyboard, you'll find me:
-* **Gaming Thrills:** Diving into the world of **video gaming**.
-* **The Beautiful Game:** Kicking a ball or watching a thrilling **football match**!
+| Frontend 🖼️ | Backend 🧠 | Data / Tools 🗃️ |
+| :--- | :--- | :--- |
+| **JS** / **React** / **Next.js** | **Node.js** / **Express.js** | **MongoDB** / **PostgreSQL** |
+| **React Native** | **Python** | **Git** |
+| HTML / CSS | | |
 
 ---
 
-### 📫 Connect with Me
-[LinkedIn Profile Link] | [Portfolio/Website Link] | [Email Address]
+### 📈 Global Impact (GitHub Stats)
+
+[![Muhammed-Sahal717's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhammed-Sahal717&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/Muhammed-Sahal717)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammed-Sahal717&layout=compact&theme=radical&hide=css)](https://github.com/Muhammed-Sahal717)
+
+---
+
+### ⚽ Game Time (Passions)
+When the servers are silent:
+* **Video Gaming**
+* **Football Fanatic**
+
+---
+
+### 📧 Next Level
+[LinkedIn Link] | [Portfolio Link]
