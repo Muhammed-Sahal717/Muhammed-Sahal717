@@ -99,16 +99,10 @@ Currently focused on improving problem-solving skills, design systems, and moder
 <table border="0" width="90%" cellpadding="10">
 <tr>
 <td align="center" width="50%" valign="top">
-<h4 style="font-family: monospace;">⚡ CURRENTLY COOKING</h4>
+<h4 style="font-family: monospace;">CURRENTLY FOCUSING</h4>
 <img src="https://img.shields.io/badge/Data%20Structures-3C3C3C?style=for-the-badge&logo=thealgorithms&logoColor=white" />
 <br>
 <img src="https://img.shields.io/badge/Algorithms-3C3C3C?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
-</td>
-<td align="center" width="50%" valign="top">
-<h4 style="font-family: monospace;">🎮 LIFE MODE</h4>
-<img src="https://img.shields.io/badge/Gamer-000000?style=for-the-badge&logo=steam&logoColor=white" />
-<br>
-<img src="https://img.shields.io/badge/Football-15803d?style=for-the-badge&logo=premierleague&logoColor=white" />
 </td>
 </tr>
 </table>
