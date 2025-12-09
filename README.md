@@ -20,9 +20,9 @@ I am a dedicated **Full Stack Developer** and **UI/UX Designer** focused on buil
 
 *Get your GitHub stats cards here. Replace the links below with your actual username.*
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhammed-Sahal717&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/YOUR_USERNAME)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhammed-Sahal717&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/Muhammed-Sahal717)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammed-Sahal717&layout=compact&theme=dark&hide=css)](https://github.com/YOUR_USERNAME)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammed-Sahal717&layout=compact&theme=dark&hide=css)](https://github.com/Muhammed-Sahal717)
 
 ---
 
