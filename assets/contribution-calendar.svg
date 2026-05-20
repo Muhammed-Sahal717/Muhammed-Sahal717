@@ -177,7 +177,7 @@
 <rect x="622" y="52" width="10" height="10" rx="1.5" fill="#EBEBEB"/>
 <rect x="634" y="52" width="10" height="10" rx="1.5" fill="#EBEBEB"/>
 <rect x="646" y="52" width="10" height="10" rx="1.5" fill="#EBEBEB"/>
-<rect x="658" y="52" width="10" height="10" rx="1.5" fill="#EBEBEB"/>
+<rect x="658" y="52" width="10" height="10" rx="1.5" fill="#A7F1EA"/>
 <rect x="34" y="64" width="10" height="10" rx="1.5" fill="#EBEBEB"/>
 <rect x="46" y="64" width="10" height="10" rx="1.5" fill="#EBEBEB"/>
 <rect x="58" y="64" width="10" height="10" rx="1.5" fill="#EBEBEB"/>
@@ -230,6 +230,7 @@
 <rect x="622" y="64" width="10" height="10" rx="1.5" fill="#EBEBEB"/>
 <rect x="634" y="64" width="10" height="10" rx="1.5" fill="#EBEBEB"/>
 <rect x="646" y="64" width="10" height="10" rx="1.5" fill="#EBEBEB"/>
+<rect x="658" y="64" width="10" height="10" rx="1.5" fill="#EBEBEB"/>
 <rect x="34" y="76" width="10" height="10" rx="1.5" fill="#EBEBEB"/>
 <rect x="46" y="76" width="10" height="10" rx="1.5" fill="#EBEBEB"/>
 <rect x="58" y="76" width="10" height="10" rx="1.5" fill="#EBEBEB"/>
