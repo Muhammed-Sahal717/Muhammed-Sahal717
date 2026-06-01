@@ -14,6 +14,7 @@
 <text x="502" y="18" fill="#8B949E" font-family="Arial, sans-serif" font-size="11">Mar</text>
 <text x="550" y="18" fill="#8B949E" font-family="Arial, sans-serif" font-size="11">Apr</text>
 <text x="598" y="18" fill="#8B949E" font-family="Arial, sans-serif" font-size="11">May</text>
+<text x="658" y="18" fill="#8B949E" font-family="Arial, sans-serif" font-size="11">Jun</text>
   <text x="2" y="38" fill="#8B949E" font-family="Arial, sans-serif" font-size="10">Mon</text>
 <text x="2" y="62" fill="#8B949E" font-family="Arial, sans-serif" font-size="10">Wed</text>
 <text x="2" y="86" fill="#8B949E" font-family="Arial, sans-serif" font-size="10">Fri</text>
@@ -123,6 +124,7 @@
 <rect x="622" y="40" width="10" height="10" rx="1.5" fill="#65EBD9"/>
 <rect x="634" y="40" width="10" height="10" rx="1.5" fill="#65EBD9"/>
 <rect x="646" y="40" width="10" height="10" rx="1.5" fill="#EBEBEB"/>
+<rect x="658" y="40" width="10" height="10" rx="1.5" fill="#EBEBEB"/>
 <rect x="34" y="52" width="10" height="10" rx="1.5" fill="#EBEBEB"/>
 <rect x="46" y="52" width="10" height="10" rx="1.5" fill="#EBEBEB"/>
 <rect x="58" y="52" width="10" height="10" rx="1.5" fill="#EBEBEB"/>
