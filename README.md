@@ -13,7 +13,7 @@
   <a href="https://github.com/Muhammed-Sahal717">
     <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=1F8FB3" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/mhdsahal717">
+  <a href="https://linkedin.com/in/mhd-sahal">
     <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=14D7A0" alt="LinkedIn" />
   </a>
   <a href="mailto:sahalap.717@gmail.com">
@@ -205,7 +205,7 @@
     <a href="mailto:sahalap.717@gmail.com">
       <img src="https://img.shields.io/badge/Let's%20Talk-111827?style=for-the-badge&logo=gmail&logoColor=FFD166" alt="Let's talk" />
     </a>
-    <a href="https://linkedin.com/in/mhdsahal717">
+    <a href="https://linkedin.com/in/mhd-sahal">
       <img src="https://img.shields.io/badge/LinkedIn%20Profile-111827?style=for-the-badge&logo=linkedin&logoColor=14D7A0" alt="LinkedIn profile" />
     </a>
   </p>
