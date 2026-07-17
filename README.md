@@ -1,15 +1,15 @@
 <div align="center">
   <h1>Hi there, I'm a Full-Stack Developer 👋</h1>
-  <p><i>A BCA graduate and software development intern focused on building clean, scalable web applications.</i></p>
+  <p><i>A BCA graduate and Software Developer focused on building clean, scalable web applications.</i></p>
 </div>
 
 <br />
 
 ### 👨‍💻 About Me
 
-A BCA graduate and software development intern focused on building clean, scalable web applications. I do not restrict myself to a specific tech stack; instead, I adapt quickly to whatever tools a project requires. My priority is writing highly performant code while delivering a smooth, polished user experience.
+BCA graduate and software developer passionate about building clean, scalable web applications. I don't limit myself to a specific tech stack—instead, I adapt quickly to the technologies a project requires. My focus is on writing performant, maintainable code while delivering a smooth and polished user experience.
 
-To maximize efficiency, I actively integrate AI tools into my workflow to handle boilerplate code and repetitive tasks, allowing me to focus entirely on problem-solving and core logic.
+I also leverage AI tools to automate repetitive tasks and accelerate development, allowing me to spend more time solving problems and building high-quality software.
 
 ---
 
