@@ -38,7 +38,7 @@ I also leverage AI tools to automate repetitive tasks and accelerate development
 
 #### 🚀 AI & DevOps
 
-![Gemini AI](https://img.shields.io/badge/Gemini%20AI-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
+[![Gemini AI API](https://img.shields.io/badge/Gemini%20AI%20API-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)](https://ai.google.dev/)
 ![RAG](https://img.shields.io/badge/RAG%20Configurations-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
