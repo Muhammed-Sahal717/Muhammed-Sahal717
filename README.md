@@ -1,62 +1,90 @@
-<div align="center">
-  <h1>Hi there, I'm a Full-Stack Developer 👋</h1>
-  <p><i>A BCA graduate and Software Developer focused on building clean, scalable web applications.</i></p>
-</div>
+# Hey, I'm Muhammed Sahal 👋
 
-<br />
+### Full-Stack Developer | Python • React • AI
 
-### 👨‍💻 About Me
+I build clean, scalable web applications with a focus on thoughtful UI, reliable backends, and practical problem-solving.
 
-BCA graduate and software developer passionate about building clean, scalable web applications. I don't limit myself to a specific tech stack—instead, I adapt quickly to the technologies a project requires. My focus is on writing performant, maintainable code while delivering a smooth and polished user experience.
+I enjoy working across the stack — from designing responsive interfaces to building APIs, managing databases, deploying applications, and experimenting with AI-powered features.
 
-I also leverage AI tools to automate repetitive tasks and accelerate development, allowing me to spend more time solving problems and building high-quality software.
+[**Portfolio ↗**](https://sahal-web.vercel.app) · [**LinkedIn ↗**](https://linkedin.com/in/mhd-sahal) · [**Email ↗**](mailto:sahalap.717@gmail.com)
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## About Me
 
-#### 🎨 Frontend
+- 🎓 BCA graduate from the University of Calicut.
+- 💻 Software Development Intern at Lincole Technologies (Apr–Jul 2026).
+- 🏗️ Contributed to a production Hajj 2026 Event Management System.
+- 🧠 Interested in full-stack engineering, backend architecture, and AI applications.
+- ⚡ I use AI-assisted development tools to accelerate workflows while focusing on code quality and problem-solving.
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+## Featured Projects
+
+### 🚀 DevPulse — Developer Dashboard
+
+A full-stack dashboard built around authentication, GitHub integrations, and reliable backend workflows.
+
+- React frontend and FastAPI backend.
+- PostgreSQL, JWT authentication, and password hashing.
+- GitHub webhooks with SHA-256 signature verification.
+- Database migrations with Alembic.
+- Deployed using Vercel, Render, and Neon.
+
+**[Live Demo ↗](https://dashboard-devpulse.vercel.app)**
+
+### 🤖 AI-Powered Developer Portfolio
+
+A personal portfolio combining modern web development with AI-powered assistance.
+
+- Next.js and TypeScript.
+- Gemini API and retrieval-augmented generation (RAG).
+- Supabase-backed admin dashboard.
+- Three.js visual elements.
+- SEO optimization and structured data.
+
+**[Visit Portfolio ↗](https://sahal-web.vercel.app)**
+
+## Tech Stack
+
+**Frontend**
+
+### 🎨 Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Material_UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-[![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)](https://mui.com/)
 
-#### ⚙️ Backend & Databases
+### ⚙️ Backend & Databases
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-#### 🚀 AI & DevOps
+### 🤖 AI, DevOps & Tools
 
-[![Gemini AI API](https://img.shields.io/badge/Gemini%20AI%20API-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)](https://ai.google.dev/)
-![RAG](https://img.shields.io/badge/RAG%20Configurations-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-[![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)](https://render.com/)
-[![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black)](https://neon.tech/)
+![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+## Let's Connect
 
-### 🤝 Connect with Me
+I'm interested in software engineering, useful side projects, and building things that solve real problems.
 
-<div align="center">
-  <a href="https://linkedin.com/in/mhd-sahal">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:sahalap.717@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://instagram.com/sxhl.xyz">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</div>
+- LinkedIn: https://linkedin.com/in/mhd-sahal
+- Portfolio: https://sahal-web.vercel.app
+- Instagram: https://instagram.com/sxhl.xyz
+- Email: sahalap.717@gmail.com
